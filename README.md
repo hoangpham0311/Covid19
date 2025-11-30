@@ -1,4 +1,4 @@
-# Covid19
+# Covid19 Exploration
 
 This report summarizes global COVID-19 outcomes using case, death, population, and vaccination data. Key metrics were computed to identify which countries experienced the highest infection levels, death burdens, and vaccination coverage.
 
